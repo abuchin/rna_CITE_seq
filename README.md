@@ -106,7 +106,7 @@ python -c "import scanpy, torch, xgboost; print('All dependencies installed succ
 
 1. **Run the main analysis notebook**:
 ```bash
-jupyter notebook 01_data_preparation.ipynb
+jupyter notebook RNA_CITE_seq.ipynb
 ```
 
 2. **Execute data preprocessing pipeline**:
