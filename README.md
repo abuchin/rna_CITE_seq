@@ -205,7 +205,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or support, please open an issue on GitHub or contact [your-email@domain.com].
+For questions or support, please open an issue on GitHub or contact [anat.buchin@gmail.com].
 
 ---
 
